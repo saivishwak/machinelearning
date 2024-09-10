@@ -1,4 +1,4 @@
-Vanilla Transformer Model for translation task
+# Vanilla Transformer Model for translation task
 
 Paper -
 https://arxiv.org/abs/1706.03762
