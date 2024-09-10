@@ -15,13 +15,15 @@ This is an implementation from Umar Jamil (https://www.youtube.com/watch?v=oM4Vm
 
 ## Instructions
 
-Create virutal env and install the dependencies
+- Create virutal env and install the dependencies
 
-Post installation of deps run
+- Post installation of deps run
 
 ```sh
 pip install -e .
 ```
+
+- Download the Llama2 weights and tokenzier files and move them to a folder 'weights' (need to create a new folder 'weights')
 
 ## For Text Completion
 
